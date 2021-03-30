@@ -4,7 +4,7 @@ RUN apk update && apk upgrade && \
     apk add --no-cache bash git openssh
 
 #RUN git clone https://github.com/cynicaloptimist/longwave.git /longwave \
-COPY ./longwave /longwave-fr
+COPY ./longwave-fr /longwave
 
 WORKDIR /longwave
 
