@@ -1,0 +1,97 @@
+{
+  "commonfooter": {
+    "developed_by": "créé par Wolfgang Warsch, Alex Hague et Justin Vickers.",
+    "adapted_for_web": "Adapté pour le web",
+    "adapted_for_web_by": "par Evan Bailey et Margarethe Schoen.",
+    "support_patreon": "Support us on Patreon!"
+  },
+  "landingpage": {
+    "create_room": "Créer une salle",
+    "longwave": "Longwave",
+    "adaptation": "est une adaptation en ligne et en temps réel du jeu de plateau",
+    "wavelength": "Wavelength",
+    "best_enjoyed": "A utiliser avec une connexion audio pour la meilleure expérience!"
+  },
+  "roomidheader": {
+    "roomid": "No de salle:",
+    "reset_room": "Réinitialiser la salle"
+  },
+  "spectrum": {
+    "guessing": "Réfléchit...",
+    "target": "Cible"
+  },
+  "title": {
+    "longwave": "Longwave"
+  },
+  "gamestate": {
+    "left_brain": "CERVEAU GAUCHE",
+    "right_brain": "CERVEAU DROIT",
+    "the_player": "LE JOUEUR"
+  },
+  "counterguess": {
+    "more_left": "La cible est sur la gauche",
+    "more_right": "La cible est sur la droite",
+    "players_clue": "indice de {{givername}}",
+    "waiting_guess_team": "En attente du choix (gauche/droit) de {{guessteam}}..."
+  },
+  "giveclue": {
+    "waiting_for_clue": "En attente de l'indice de {{givername}}...",
+    "draw_other_hand": "Tirer une carte différente",
+    "clue": "Indice...",
+    "instructions": "Votre indice doit être un concept qui se trouve sur le spectre donné, conceptuellement situé où la cible se trouve entre les 2 extrêmes. Par exemple, \"café\" peut être un bon indice qui se trouve sur le spectre \"chaud\" \"froid\".",
+    "focus1": "Ne faites passer qu'une seule idée",
+    "focus2": "Restez sur le sujet",
+    "focus3": "Les nombres ne sont pas autorisés",
+    "focus4": "Soyez créatifs!",
+    "give_clue": "Soumettez un indice"
+  },
+  "inputname": {
+    "your_name": "Entrez votre nom"
+  },
+  "jointeam": {
+    "join_team": "Rejoindre l'équipe",
+    "join_left": "Rejoindre",
+    "join_right": "Rejoindre",
+    "start_game": "Commencer le jeu"
+  },
+  "makeguess": {
+    "players_clue": "Indice de {{givername}}",
+    "waiting_guessing_team": "En attente de la décision de {{guessingteam}}...",
+    "invite_other_players": "Inviter d'autres joueurs.",
+    "share_game_url": "Partagez cette URL avec eux: {{game_url}}",
+    "guess_for_team": "Soumettre la proposition pour {{teamname}}"
+  },
+  "previousturnresult": {
+    "previous_game": "Tour précédent",
+    "player_clue": "Indice de {{givername}}"
+  },
+  "scoreboard": {
+    "free_play": "Jeu libre",
+    "last_card": "Dernière carte!",
+    "card_remaining": "Cartes restantes",
+    "coop_score": "Score coopératif",
+    "points": "POINTS"
+  },
+  "setupgame": {
+    "standard_game": "Standard (équipe): 4+ Joueurs",
+    "coop_game": "Cooperatif: 2+ Joueurs",
+    "free_game": "Jeu libre: 2+ Joueurs"
+  },
+  "viewscore": {
+    "player_clue": "Indice de {{givername}}",
+    "winning_team": "Victoire de {{winnerteam}}!",
+    "1_point_correct_guess": "1 point pour leur réponse correcte.",
+    "0_point_wrong_guess": "0 point.",
+    "bonus_turn": "Votre équipe a gagné un <strong>tour bonus!</strong>",
+    "reset_game": "Réinitialiser la partie",
+    "game_finished": "Partie terminée",
+    "final_score_team": "Le score final de votre équipe",
+    "points": "POINTS",
+    "catching_up": "Rattrapage activé: {{scoringteam}} prend un tour bonus!",
+    "catching_up_info": "After a team scores a four-point round, they get a bonus turn if they are still behind the other team",
+    "catching_up_info": "Après qu'une équipe réussit un tour à 4 points, elle obtient un tour bonus si elle est toujours derrière l'autre équipe",
+    "draw_next_card": "Tirer la Carte Spectrale suivante",
+    "score": "Score",
+    "got": "reçoit"
+  }
+}

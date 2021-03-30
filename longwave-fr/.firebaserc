@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "wavelength-online"
+  },
+  "targets": {
+    "wavelength-online": {
+      "hosting": {
+        "longwave": [
+          "longwave"
+        ],
+        "dev": [
+          "wavelength-online"
+        ]
+      }
+    }
+  }
+}
