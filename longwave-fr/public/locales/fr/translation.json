@@ -10,7 +10,7 @@
     "longwave": "Longwave",
     "adaptation": "est une adaptation en ligne et en temps réel du jeu de plateau",
     "wavelength": "Wavelength",
-    "best_enjoyed": "A utiliser avec une connexion audio pour la meilleure expérience!"
+    "best_enjoyed": "A utiliser de préférence avec une connexion audio pour une meilleure expérience!"
   },
   "roomidheader": {
     "roomid": "No de salle:",
@@ -26,7 +26,7 @@
   "gamestate": {
     "left_brain": "CERVEAU GAUCHE",
     "right_brain": "CERVEAU DROIT",
-    "the_player": "LE JOUEUR"
+    "the_player": "JOUEUR"
   },
   "counterguess": {
     "more_left": "La cible est sur la gauche",
